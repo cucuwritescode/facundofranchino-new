@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/facundofranchino.github.io/static/css/main.6a991a40.chunk.css",
+    "main.js": "/facundofranchino.github.io/static/js/main.bff99321.chunk.js",
+    "main.js.map": "/facundofranchino.github.io/static/js/main.bff99321.chunk.js.map",
+    "runtime-main.js": "/facundofranchino.github.io/static/js/runtime-main.6b46b4ae.js",
+    "runtime-main.js.map": "/facundofranchino.github.io/static/js/runtime-main.6b46b4ae.js.map",
+    "static/js/2.d8296552.chunk.js": "/facundofranchino.github.io/static/js/2.d8296552.chunk.js",
+    "static/js/2.d8296552.chunk.js.map": "/facundofranchino.github.io/static/js/2.d8296552.chunk.js.map",
+    "index.html": "/facundofranchino.github.io/index.html",
+    "static/css/main.6a991a40.chunk.css.map": "/facundofranchino.github.io/static/css/main.6a991a40.chunk.css.map",
+    "static/js/2.d8296552.chunk.js.LICENSE.txt": "/facundofranchino.github.io/static/js/2.d8296552.chunk.js.LICENSE.txt",
+    "static/media/GR001393.21b16ad9.JPG": "/facundofranchino.github.io/static/media/GR001393.21b16ad9.JPG",
+    "static/media/GR001551.7b669dba.JPG": "/facundofranchino.github.io/static/media/GR001551.7b669dba.JPG",
+    "static/media/MS-Sans-Serif.30dfad5d.eot": "/facundofranchino.github.io/static/media/MS-Sans-Serif.30dfad5d.eot",
+    "static/media/MS-Sans-Serif.4fb9ed0f.woff2": "/facundofranchino.github.io/static/media/MS-Sans-Serif.4fb9ed0f.woff2",
+    "static/media/MS-Sans-Serif.82eeac7b.woff": "/facundofranchino.github.io/static/media/MS-Sans-Serif.82eeac7b.woff",
+    "static/media/MS-Sans-Serif.93905f8d.ttf": "/facundofranchino.github.io/static/media/MS-Sans-Serif.93905f8d.ttf",
+    "static/media/React95Video-Numbers.1b0c9ed8.woff2": "/facundofranchino.github.io/static/media/React95Video-Numbers.1b0c9ed8.woff2",
+    "static/media/React95Video-Numbers.70eb4c83.eot": "/facundofranchino.github.io/static/media/React95Video-Numbers.70eb4c83.eot",
+    "static/media/React95Video-Numbers.abf01d42.ttf": "/facundofranchino.github.io/static/media/React95Video-Numbers.abf01d42.ttf",
+    "static/media/React95Video-Numbers.cc52603d.woff": "/facundofranchino.github.io/static/media/React95Video-Numbers.cc52603d.woff",
+    "static/media/styles.scss": "/facundofranchino.github.io/static/media/bgnd.f16653ad.png",
+    "static/media/check-disabled.svg": "/facundofranchino.github.io/static/media/check-disabled.6c74515b.svg",
+    "static/media/check.svg": "/facundofranchino.github.io/static/media/check.cab94f08.svg",
+    "static/media/rightcaret.4316e9ff.svg": "/facundofranchino.github.io/static/media/rightcaret.4316e9ff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b46b4ae.js",
+    "static/js/2.d8296552.chunk.js",
+    "static/css/main.6a991a40.chunk.css",
+    "static/js/main.bff99321.chunk.js"
+  ]
+}
