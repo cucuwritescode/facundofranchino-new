@@ -44,7 +44,12 @@ function CV({ closeCV, isMobile }) {
             
           </p>
           <h2>Education</h2>
-          <h3>BEng Electronics Engineering with Music Technology Systems - University of York</h3>
+          <h3>BEng Electronics Engineering with Music Technology Systems - University of York </h3> <p>(Scholarship awardee)
+          </p>
+          
+          
+          
+          <h3>Digital Signal Processing Specialization Course- École Polytechnique Fédérale de Lausanne </h3>
           <p>
           </p>
           <h3></h3>
@@ -65,7 +70,7 @@ function CV({ closeCV, isMobile }) {
           <ul>
             <li>Italian</li>
             <li>French</li>
-            <li>Finnish</li>
+            
             <li>Russian</li>
           </ul>
         </S.textModal>
