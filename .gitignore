@@ -1,0 +1,5 @@
+# ESLint cache
+.eslintcache
+
+# Cache directories
+node_modules/.cache/
